@@ -1,0 +1,11 @@
+{
+  "name": "browsersync-nix",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
